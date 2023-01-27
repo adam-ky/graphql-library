@@ -12,7 +12,7 @@ app.use(cors());
 
 // Connect to database
 mongoose.connect(
-  'mongodb+srv://adam-ky:qwerty123@cluster0.mfakozh.mongodb.net/?retryWrites=true&w=majority'
+  // TODO: add MongoDB URI
 );
 mongoose.connection.once('open', () => {
   console.log('connected to database');
