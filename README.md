@@ -1,4 +1,4 @@
-# MyLibrary - A GraphQL Project
+# MyLibrary - A GraphQL Project <img src='https://graphql.org/img/logo.svg' alt='GraphQL Logo' width='40px' height='40px'>
 This project was created with...
 - **Front-end**: React, Apollo Client
 - **Back-end**: Express, GraphQL
